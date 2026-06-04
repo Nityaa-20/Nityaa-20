@@ -80,4 +80,8 @@ $ interests
 ![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) 
 ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+
 ---
+
+### ✍️ Random Dev Quote 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
