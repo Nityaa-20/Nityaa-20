@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Nitya Mathur</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Nitya%20Mathur&fontSize=50&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20|%20Software%20Developer%20|%20Data%20Analytics&descAlignY=58&animation=fadeIn" width="100%"/>
+</div>
+<h3 align="center">
+🚀 B.Tech AI & ML Student | Aspiring Software Engineer
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nityaa-20&label=Profile%20views&color=0e75b6&style=flat" alt="nityaa-20" /> </p>
+<p align="center">
+Building AI-powered solutions, data-driven applications, and full-stack projects.
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast+🤖;Software+Developer+💻;Data+Analytics+%26+Power+BI+📊;FastAPI+%7C+React+%7C+Python+⚡;Always+Learning+Something+New+🚀" />
+</p>
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on **my AI/ML skills**
+- 🎓 Final Year B.Tech Student specializing in AI & ML
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 📊 Skilled in Data Analytics, Power BI, and Data Visualization
+- 🔐 Building AI-powered Cybersecurity solutions with ReflexSec
+- 💻 Interested in Software Development and Backend Engineering
+- 🧩 Actively solving DSA problems for placement preparation
+- 🌱 Currently learning System Design and Advanced AI
+## 🚀 Featured Projects
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+### 🔐 ReflexSec
+AI-powered cybersecurity platform for vulnerability analysis, CVE monitoring, and security awareness.
 
-- 👯 I’m looking to collaborate on **Open-Source AI/ML projects**
+### 🎓 Student Portal Management System
+Full-stack application for managing student records and academic workflows.
 
-- 📫 How to reach me **nitya.20.mathur@gmail.com**
+### 🏏 IPL Analytics Dashboard
+Power BI dashboard providing insights into team and player performance.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🤖 Machine Learning Applications
+Predictive analytics and intelligent systems using Python and Scikit-Learn.
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Nityaa-20&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nityaa-20&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nityaa-20&layout=compact&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nityaa-20&show_icons=true&locale=en&layout=compact" alt="nityaa-20" /></p>
+### 💡 "Turning Data into Insights and Ideas into Solutions"
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nityaa-20&show_icons=true&locale=en" alt="nityaa-20" /></p>
+</div>
