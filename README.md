@@ -8,17 +8,22 @@
 
 ---
 
-bash
+```bash
 $ whoami
+```
+
+```yaml
 Name        : Nitya Mathur
 Education   : B.Tech CSE @ SRM Institute of Science and Technology
 Status      : Final Year Student
 Location    : India 🇮🇳
 Role        : Aspiring Software Engineer | AI/ML Enthusiast
 Open To     : Analysis, Data & AI/ML Internships
+```
 
-bash
+```bash
 $ interests
+```
 <div align="center"> 
 <img src="https://img.shields.io/badge/🤖_Machine_Learning-20232A?style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/🧠_Deep_Learning-20232A?style=for-the-badge" /> 
