@@ -27,3 +27,11 @@ $ interests
 <div align="center"> 
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="60%"/> 
 </div>
+--- 
+# 💻 Tech Stack 
+## 🧠 Programming Languages 
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-FFD43B?style=for-the-badge&logo=openjdk&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+---
