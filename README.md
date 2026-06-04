@@ -5,3 +5,21 @@
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;AIML+Student+📊;Data+Analysis+💻;DSA+%7C+Python+⚡" /> 
 </p>
+---
+bash
+$ whoami
+Name        : Nitya Mathur
+Education   : B.Tech CSE @ SRM Institute of Science and Technology
+Status      : Final Year Student
+Location    : India 🇮🇳
+Role        : Aspiring Software Engineer | AI/ML Enthusiast
+Open To     : Analysis, Data & AI/ML Internships
+
+bash
+$ interests
+<div align="center"> 
+<img src="https://img.shields.io/badge/🤖_Machine_Learning-20232A?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/🧠_Deep_Learning-20232A?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/🌐_Web_Development-20232A?style=for-the-badge" /> 
+<img src="https://img.shields.io/badge/🔓_Data_Analytics-20232A?style=for-the-badge" /> 
+</div>
