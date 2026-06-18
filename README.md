@@ -99,6 +99,8 @@ $ interests
 
 
 # 📊 GitHub Stats: 
-https://github-readme-activity-graph.vercel.app/graph?username=Nityaa-20&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nityaa-20&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true" />
+</div>
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
