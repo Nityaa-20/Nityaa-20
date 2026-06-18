@@ -99,8 +99,7 @@ $ interests
 
 
 # 📊 GitHub Stats: 
-![](https://streak-stats.demolab.com/?user=Nityaa-20&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nityaa-20&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+https://github-readme-activity-graph.vercel.app/graph?username=Nityaa-20&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true
 
 ### ✍️ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
