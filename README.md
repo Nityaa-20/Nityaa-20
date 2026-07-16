@@ -80,7 +80,6 @@ $ interests
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
 
-
 ---
 
 
