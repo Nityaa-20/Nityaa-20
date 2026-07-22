@@ -85,7 +85,6 @@ $ interests
 ---
 
 
-
 ## 🗄️ Databases & Backend 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
