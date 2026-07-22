@@ -57,7 +57,6 @@ $ interests
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
 
-
 ---
 
 
