@@ -69,7 +69,6 @@ $ interests
 ![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 
-
 ---
 
 
