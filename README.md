@@ -109,9 +109,9 @@ $ interests
 
 
 
-# 📊 GitHub Stats: 
+# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nityaa-20&theme=react-dark&bg_color=0d1117&color=39ff14&line=39ff14&point=39ff14&area=true&hide_border=true" />
+  <img src="https://github.pumbas.net/api/contributions/Nityaa-20?colour=39FF14&bgColour=0d1117&dotColour=39FF14&days=30" />
 </div>
 
 ### ✍️ Random Dev Quote
