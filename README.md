@@ -107,7 +107,6 @@ $ interests
 ---
 
 
-
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github.pumbas.net/api/contributions/Nityaa-20?colour=39FF14&bgColour=0d1117&dotColour=39FF14&days=30" />
