@@ -34,7 +34,6 @@ $ interests
 <img src="https://img.shields.io/badge/🔓_Data_Analytics-20232A?style=for-the-badge" /> 
 </div>
 
-
 --- 
 
 
